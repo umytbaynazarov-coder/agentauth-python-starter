@@ -4,15 +4,16 @@ Interactive playground for trying the AgentAuth Python SDK in your browser.
 
 ## 🚀 Quick Start
 
-### Run in Gitpod (Recommended)
+### Run in Google Colab (Recommended)
 
-Click the button below to open this playground in Gitpod:
+Click the button below to open in Google Colab - no setup required!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/umytbaynazarov-coder/agentauth-python-starter)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/umytbaynazarov-coder/agentauth-python-starter/blob/main/agentauth_demo.ipynb)
 
-### Run in Replit
+### Other Options
 
-[![Run on Replit](https://replit.com/badge/github/umytbaynazarov-coder/agentauth-python-starter)](https://replit.com/@umytbaynazarov/agentauth-python-starter)
+- **Gitpod:** [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/umytbaynazarov-coder/agentauth-python-starter)
+- **Replit:** [![Run on Replit](https://replit.com/badge/github/umytbaynazarov-coder/agentauth-python-starter)](https://replit.com/@umytbaynazarov/agentauth-python-starter)
 
 ### Run Locally
 
