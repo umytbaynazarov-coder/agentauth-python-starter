@@ -10,10 +10,12 @@ Click the button below to open in Google Colab - no setup required!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/umytbaynazarov-coder/agentauth-python-starter/blob/main/agentauth_demo.ipynb)
 
-### Other Options
+### Run Locally
 
-- **Gitpod:** [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/umytbaynazarov-coder/agentauth-python-starter)
-- **Replit:** [![Run on Replit](https://replit.com/badge/github/umytbaynazarov-coder/agentauth-python-starter)](https://replit.com/@umytbaynazarov/agentauth-python-starter)
+```bash
+pip install umytbaynazarow-agentauth-sdk
+python main.py
+```
 
 ### Run Locally
 
